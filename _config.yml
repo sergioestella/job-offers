@@ -2,7 +2,7 @@
 title: Simbiótica Jobs
 email: info@simbiotica.es
 description: > # We are hiring
-baseurl: "simbiotica-jobs" # the subpath of your site, e.g. /blog/
+baseurl: "/simbiotica-jobs" # the subpath of your site, e.g. /blog/
 url: "http://simbiotica.es" # the base hostname & protocol for your site
 twitter_username: simbioticos
 linkedin_username:  simbi-tica

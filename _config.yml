@@ -10,3 +10,5 @@ linkedin_username:  simbi-tica
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+github: git@github.com:simbiotica/simbiotica-jobs.git

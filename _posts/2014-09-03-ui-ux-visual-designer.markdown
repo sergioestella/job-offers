@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job offer: UI / UX / Visual designer"
+title:  "Job offer: Web designer"
 date:   2014-09-03 10:36:22
 categories: design
 ---
@@ -25,4 +25,4 @@ send your portfolio.  It can be via dribbble, behance or in whatever online medi
 be fluent in English.  If you can’t speak, write, and understand it, please do not send us your CV.
 have a desire to learn and improve while working with experts in the field.
 
-If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[info@simbiotica.es](mailto:info@simbiotica.es)**; we’d be happy to have a looked at it.  If it fits, we can have a coffee together, have a chat, and who knows, maybe you can join us!
+If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[jobs@simbiotica.es](mailto:jobs@simbiotica.es)**; we’d be happy to have a looked at it.  If it fits, we can have a coffee together, have a chat, and who knows, maybe you can join us!

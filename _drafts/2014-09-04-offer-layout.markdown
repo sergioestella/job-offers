@@ -26,4 +26,4 @@ Have a desire to learn and improve while working with experts in the field.
 Send your portfolio. It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments.
 
 
-If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[jobs@simbiotica.es](mailto:info@simbiotica.es)**.  
+If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[jobs@simbiotica.es](mailto:jobs@simbiotica.es)**.  

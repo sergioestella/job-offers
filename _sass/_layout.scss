@@ -1,7 +1,14 @@
 body {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
     min-height: 100vh;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
 }
 
 /**
@@ -11,6 +18,10 @@ body {
     // Positioning context for the mobile navigation icon
     position: relative;
     padding: $spacing-unit 0;
+
+    svg > g {
+      fill: #64D1B8;
+    }
 }
 
 .site-title {
@@ -23,14 +34,12 @@ body {
  * Site footer
  */
 .site-footer {
-    flex: 1;
-    background-color: #333;
-    border-top: 5px solid #CDCD00;
-    color: $grey-color;
+    background-color: #222;
+    color: #64d1b8;
     padding: $spacing-unit 0;
 
     a {
-        color: $grey-color;
+        color: #64d1b8;
         font-weight: bold;
     }
 
@@ -40,12 +49,25 @@ body {
 }
 
 .footer-col-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
 }
 
-.footer-col {}
+.footer-col {
+  svg > g  {
+    fill: #fff;
+  }
+}
 
 .footer-nav ul li {
     margin-top: .5em;
@@ -61,6 +83,10 @@ body {
  * Page content
  */
 .page-content {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
     padding: 0 0 $spacing-unit 0;
 }
 

@@ -34,7 +34,7 @@ Vizzuality is a creative digital agency based in Madrid and Cambridge. We design
 
 ## To apply:
 
-Send your portfolio by November the 1st. It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV. 
+It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV. 
 
 
-If you think you’re right for this position, please send us your CV + portfolio and salary expectations as detailed above to **[hello@vizzuality.com](mailto:hello@vizzuality.com)**.  
+If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[hello@vizzuality.com](mailto:hello@vizzuality.com)**.  

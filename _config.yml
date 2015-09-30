@@ -1,14 +1,14 @@
 # Site settings
-title: Simbiótica Jobs
-email: info@simbiotica.es
+title: Vizzuality job offers
+email: info@vizzuality.com
 description: > # We are hiring
-baseurl: "/simbiotica-jobs" # the subpath of your site, e.g. /blog/
-url: "http://simbiotica.es" # the base hostname & protocol for your site
-twitter_username: simbioticos
-linkedin_username:  simbi-tica
-# github_username:  simbiotica
+baseurl: "/job-offers" # the subpath of your site, e.g. /blog/
+url: "http://vizzuality.com" # the base hostname & protocol for your site
+twitter_username: vizzuality
+linkedin_username:  vizzuality
+# github_username:  vizzuality
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
-github: git@github.com:simbiotica/simbiotica-jobs.git
+github: git@github.com:vizzuality/job-offers.git

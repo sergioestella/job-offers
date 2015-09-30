@@ -16,9 +16,9 @@ We seek a curious individual, passionate about internet and Open Source who want
 
 ## Daily tasks would include:
 
-* Advanced javaScript programming of innovative interfaces and client side applications. 
-* Configuration and optimization of client side libraries and frameworks. 
-* Development of interactive graphs, infographics and other visualization solutions using canvas and SVG. 
+* Advanced javaScript programming of innovative interfaces and client side applications.
+* Configuration and optimization of client side libraries and frameworks.
+* Development of interactive graphs, infographics and other visualization solutions using canvas and SVG.
 * Development of online cartographies with a high degree of interactivity and features.
 
 
@@ -26,10 +26,10 @@ We seek a curious individual, passionate about internet and Open Source who want
 
 * Proven experience developing large scale JavaScript applications
 * Deep understanding of how the Web works, from client requests to server-side handling to front-end rendering
-* Passionate about learning and sharing newer technologies with the team 
+* Passionate about learning and sharing newer technologies with the team
 * Interest in usability and design aesthetics
-* Good knowledge of visualization libraries like D3. 
-* Proficiency in HTML5 & CSS3. 
+* Good knowledge of visualization libraries like D3.
+* Proficiency in HTML5 & CSS3.
 * Experience working with CSS's pre-processors
 * Skills for creating responsive websites
 * Familiarity with Git or other version control systems

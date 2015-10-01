@@ -7,7 +7,7 @@ categories: development
 
 ## Job Summary:
 
-We are looking for a senior front end engineer to join our team.
+We are looking for a senior front end engineer to join our team on a full time contract in our office in Madrid.
 
 We are a creative digital agency based in Madrid and Cambridge. We design and develop web applications, mobile apps, interactive maps, data visualization products and state-of-the-art interfaces for international organizations focusing on conservation, development, open data and citizenship.
 

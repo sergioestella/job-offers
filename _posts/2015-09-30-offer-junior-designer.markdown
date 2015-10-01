@@ -26,7 +26,8 @@ Vizzuality is a creative digital agency based in Madrid and Cambridge. We design
 
 ## Required skills:
 
-* 1 - 3 years of experience thorough knowledge of Sketch, Illustrator, Photoshop, Invisionapp and CSS
+* 1 - 3 years of experience 
+* Thorough knowledge of Sketch, Illustrator, Photoshop, Invisionapp and CSS
 * Can listen keenly and communicate clearly with human beings
 * Fluent english (written and spoken) is required.
 * A desire to learn and improve while working with experts in the field.

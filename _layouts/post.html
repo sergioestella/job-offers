@@ -11,13 +11,16 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  
+
   <aside class="post-related">
+    <h2>Other offers</h2>
     <ul>
       {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
+        {% if post.url != page.url %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </aside>
